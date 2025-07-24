@@ -1,0 +1,10 @@
+Defect Type	Description
+Center	Defects concentrated in the center of the wafer.
+Donut	Defects form a ring-like pattern around the center.
+Edge Local	Defects appear near the wafer's edge in small clusters.
+Edge Ring	Defects form a continuous ring along the wafer's edge.
+Local	Defects are randomly distributed in small, localized regions.
+Scratch	Linear or curved scratches appear on the wafer.
+Near Full	The majority of the wafer is covered with defects.
+None	No defects (Normal wafer).
+Random	Defects scattered randomly across the wafer.
